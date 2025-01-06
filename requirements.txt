@@ -1,2 +1,2 @@
 torch
-sklearn
+scikit-learn
